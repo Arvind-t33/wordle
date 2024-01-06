@@ -24,6 +24,6 @@ Note: for information on the game during gameplay, type ```help``` when in the m
 
 - **Example:**
   ```plaintext
-  Guess 1: apple
-  _##__
+  Guess 1: apple 
+  _##__    _bcd_fghijk_mno_qrstuvwxyz
 
