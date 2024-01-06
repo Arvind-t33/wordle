@@ -20,7 +20,7 @@ Note: for information on the game during gameplay, type ```help``` when in the m
     - `#`: Indicates a character found and in the correct position.
     - `o`: Indicates a character found but in the wrong position.
     - `_`: Represents a character not found.
-  - The program also prints a set of unused words so the player knows which words have redundant letters. 
+  - The program also prints a set of unused letters so the player knows which words have redundant letters. 
 
 - **Example:**
   ```plaintext
