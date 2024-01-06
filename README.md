@@ -11,7 +11,7 @@ A wordle game in C
   - Exit the game (`exit`).
 - The user is prompted to provide input, and the program processes it accordingly.
 
-Note: for information on the game during gameplay, type ```help ``` when in the menu. 
+Note: for information on the game during gameplay, type ```help``` when in the menu. 
 
 ### Outputs
 - **Word Guessing Output:**
